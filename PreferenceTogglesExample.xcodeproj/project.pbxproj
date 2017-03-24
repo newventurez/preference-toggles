@@ -139,6 +139,7 @@
 				TargetAttributes = {
 					113E3DD41E8325F4002C5A47 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 6XUT522YBF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -352,6 +353,7 @@
 			baseConfigurationReference = 08523B7E7A51EC122C56E68D /* Pods-PreferenceTogglesExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6XUT522YBF;
 				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smileslaughs.PreferenceToggles;
@@ -365,6 +367,7 @@
 			baseConfigurationReference = 7B5E24BB81A575C252F5D0BA /* Pods-PreferenceTogglesExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6XUT522YBF;
 				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smileslaughs.PreferenceToggles;
