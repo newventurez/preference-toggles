@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
     Toggle preferences!
                    DESC
 
-  s.homepage     = "https://github.com/zshannon/prefence-toggles"
+  s.homepage     = "https://github.com/zshannon/preference-toggles"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   s.author             = { "Zane Shannon" => "zcs@smileslaughs.com" }
   # Or just: s.author    = "Zane Shannon"
   # s.authors            = { "Zane Shannon" => "zcs@smileslaughs.com" }
-  # s.social_media_url   = "http://twitter.com/Zane Shannon"
+  s.social_media_url   = "http://twitter.com/zaneshannon"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
