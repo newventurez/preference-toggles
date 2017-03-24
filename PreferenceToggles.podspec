@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PreferenceToggles"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of PreferenceToggles."
+  s.version      = "1.0.0"
+  s.summary      = "PreferenceToggles is a Swift User Interface that supports user signaling filter intentions."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-    Toggle preferences!
+  PreferenceToggles is a Swift User Interface that supports user signaling filter intentions. It supports three intentions: prefer, allow, and prohibit. We use it for search filtering; ours is a list of manufacturers, and our users use PreferenceToggles to indicate which manufacturers' products they'd like to be shown.
                    DESC
 
   s.homepage     = "https://github.com/zshannon/preference-toggles"
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   s.author             = { "Zane Shannon" => "zcs@smileslaughs.com" }
   # Or just: s.author    = "Zane Shannon"
   # s.authors            = { "Zane Shannon" => "zcs@smileslaughs.com" }
-  s.social_media_url   = "http://twitter.com/zaneshannon"
+  s.social_media_url   = "https://twitter.com/zaneshannon"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
