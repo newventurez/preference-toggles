@@ -9,6 +9,7 @@ It supports three intentions: prefer, allow, and prohibit.
 
 We use it for search filtering; ours is a list of manufacturers, and our users use PreferenceToggles to indicate which manufacturers' products they'd like to be shown.
 
+![demo](https://github.com/zshannon/preference-toggles/raw/assets/demo.gif)
 
 ## Installation
 
